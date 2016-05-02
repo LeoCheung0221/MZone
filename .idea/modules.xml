@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Climax.iml" filepath="$PROJECT_DIR$/Climax.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k_baselib/k_baselib.iml" filepath="$PROJECT_DIR$/k_baselib/k_baselib.iml" />
     </modules>
   </component>
 </project>
