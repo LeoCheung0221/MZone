@@ -1,4 +1,4 @@
-package com.set.kingbaselib;
+package com.set.kingbaselib.widget;
 
 /**
  * author： LeoCheung4ever on 2016/5/1 11:54

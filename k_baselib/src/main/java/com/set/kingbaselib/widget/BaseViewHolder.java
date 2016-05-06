@@ -1,4 +1,4 @@
-package com.set.kingbaselib;
+package com.set.kingbaselib.widget;
 
 import android.content.Context;
 import android.graphics.Bitmap;

@@ -1,4 +1,4 @@
-package com.set.kingbaselib;
+package com.set.kingbaselib.widget;
 
 import android.animation.Animator;
 import android.content.Context;
@@ -11,15 +11,16 @@ import android.view.ViewGroup;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 
-import com.set.kingbaselib.animation.AlphaInAnimation;
-import com.set.kingbaselib.animation.BaseAnimation;
-import com.set.kingbaselib.animation.ScaleInAnimation;
-import com.set.kingbaselib.animation.SlideInBottomAnimation;
-import com.set.kingbaselib.animation.SlideInLeftAnimation;
-import com.set.kingbaselib.animation.SlideInRightAnimation;
-import com.set.kingbaselib.listener.OnRvItemChildClickListener;
-import com.set.kingbaselib.listener.OnRvItemClickListener;
-import com.set.kingbaselib.listener.RequestLoadMoreListener;
+import com.set.kingbaselib.R;
+import com.set.kingbaselib.widget.animation.AlphaInAnimation;
+import com.set.kingbaselib.widget.animation.BaseAnimation;
+import com.set.kingbaselib.widget.animation.ScaleInAnimation;
+import com.set.kingbaselib.widget.animation.SlideInBottomAnimation;
+import com.set.kingbaselib.widget.animation.SlideInLeftAnimation;
+import com.set.kingbaselib.widget.animation.SlideInRightAnimation;
+import com.set.kingbaselib.widget.listener.OnRvItemChildClickListener;
+import com.set.kingbaselib.widget.listener.OnRvItemClickListener;
+import com.set.kingbaselib.widget.listener.RequestLoadMoreListener;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

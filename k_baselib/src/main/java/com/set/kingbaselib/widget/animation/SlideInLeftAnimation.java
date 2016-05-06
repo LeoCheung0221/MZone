@@ -1,4 +1,4 @@
-package com.set.kingbaselib.animation;
+package com.set.kingbaselib.widget.animation;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;

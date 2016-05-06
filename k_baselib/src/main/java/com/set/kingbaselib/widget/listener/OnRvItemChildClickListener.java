@@ -1,8 +1,8 @@
-package com.set.kingbaselib.listener;
+package com.set.kingbaselib.widget.listener;
 
 import android.view.View;
 
-import com.set.kingbaselib.BaseAdapter;
+import com.set.kingbaselib.widget.BaseAdapter;
 
 /**
  * author： LeoCheung4ever on 2016/5/1 10:13

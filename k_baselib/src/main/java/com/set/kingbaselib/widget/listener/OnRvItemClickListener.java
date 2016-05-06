@@ -1,4 +1,4 @@
-package com.set.kingbaselib.listener;
+package com.set.kingbaselib.widget.listener;
 
 import android.view.View;
 
